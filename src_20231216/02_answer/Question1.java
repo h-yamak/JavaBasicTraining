@@ -9,11 +9,11 @@
 public class Question1 {
 	public static void main(String[] args) {
 		// ‰ğ“š—á
-		int jpn = 83;
-		int math = 65;
-		int eng = 63;
+		double jpn = 83;
+		double math = 65;
+		double eng = 63;
 		
-		int ave = (jpn + math + eng) / 3;
+		double ave = (jpn + math + eng) / 3;
 		
 		if (ave >= 70) {
 			System.out.println("‡Ši");
